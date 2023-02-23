@@ -1,0 +1,42 @@
+{
+    "nombreGrupo" : "Nuevo Plata de Colombia",
+    "ciudadNatal" : "Bogotá, Colombia.",
+    "formado" : 2023,
+    "secretBase" : "Bunquer",
+    "active" : true,
+    "members" : [
+      {
+        "name" : "El Sebas",
+        "edad" : 22,
+        "secretIdentity" : " ",
+        "powers" : [
+          "Intelectual",
+          "Fuerte",
+          "Egocentrico",
+          "Habilidades en ventas"
+
+        ]
+      },
+      {
+        "name" : "Loco Coco",
+        "edad" : 40,
+        "secretIdentity" : "kuku",
+        "powers" : [
+          "Velocidad",
+          "Inmortal",
+          "Inmunidad de genero"
+        ]
+      },
+      {
+        "name" : "Conejo Malo",
+        "edad" : 2016,
+        "secretIdentity" : "Unknown",
+        "powers" : [
+          "Agil",
+          "Vision Nocturna",
+          "Habilidades Tecnicas",
+          "Teletransportacion"
+        ]
+      }
+    ]
+  }

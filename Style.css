@@ -1,0 +1,51 @@
+/* || general styles */
+
+html {
+    font-family: Paprika;
+  }
+  
+  body {
+    width: 800px;
+    margin: 0 auto;
+  }
+  
+  h2 {
+    font-family: 'Paprika', cursive;
+  }
+  
+  /* header styles */
+  
+  h1 {
+    font-size: 5rem;
+    text-align: center;
+    color: #b9babb;
+    font-family: 'Kaushan Script', cursive;
+  }
+  
+  header p {
+    font-size: 1.3rem;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Kaushan Script', cursive;
+  }
+  
+  /* section styles */
+  
+  section article {
+    width: 33%;
+    float: left;
+  }
+  
+  section p {
+    margin: 5px 0;
+  }
+  
+  section ul {
+    margin-top: 0;
+  }
+  
+  h2 {
+    font-size: 2.5rem;
+    letter-spacing: -5px;
+    margin-bottom: 10px;
+  }
